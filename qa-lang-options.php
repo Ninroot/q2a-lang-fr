@@ -29,7 +29,7 @@
 
 	return array(
 		'allow_change_usernames' => 'Autoriser les utilisateurs avec des messages à changer leur nom d\'utilisateur:',
-		'allow_close_questions' => 'Autoriser la fermeture manuelleles des questions:',
+		'allow_close_questions' => 'Autoriser la fermeture manuelle des questions:',
 		'allow_login_email_only' => 'Seulement identifier par adresse de courriel (pas de pseudo):', 
 		'allow_multi_answers' => 'Autoriser les réponses multiples par utilisateur:',
 		'allow_no_category' => 'Autoriser les questions sans catégorie',
