@@ -44,7 +44,7 @@
 		'avatar_default_show' => 'Avatar par défaut:',
 		'avatar_message_list_size' => 'Taille d\'avatar sur les listes de messages:',
 		'avatar_profile_size' => 'Taille d\'avatar sur la page de profil de l\'utilisateur:',
-		'avatar_q_list_size' => 'Taille d\'Avatar sur les listes de questions:',
+		'avatar_q_list_size' => 'Taille d\'avatar sur les listes de questions:',
 		'avatar_q_page_a_size' => 'Taille d\'avatar sur les réponses:',
 		'avatar_q_page_c_size' => 'Taille d\'avatar sur les commentaires:',
 		'avatar_q_page_q_size' => 'Taille d\'avatar sur les questions:',
