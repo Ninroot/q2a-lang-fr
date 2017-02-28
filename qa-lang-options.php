@@ -67,7 +67,7 @@
 		'confirm_user_required' => 'Tous les nouveaux utilisateurs doivent confirmer leur e-mail:',
 		'custom_home_content' => 'Page d\'accueil contenu personnalisé - HTML autorisés:',
 		'custom_home_heading' => 'Page d\'accueil rubrique:',
-		'default_privacy' => 'Vie privée: Votre adresse de messagerie ne sera pas partagées ou vendues à des tiers.',
+		'default_privacy' => 'Vie privée: Votre adresse de messagerie ne sera pas partagée ou vendue à des tiers.',
 		'default_sidebar' => "Bienvenue sur ^, où vous pouvez poser des questions et recevoir des réponses d'autres membres de la communauté.",
 		'default_subject' => 'Un message de ^',
 		'default_suffix' => 'Q&R',
